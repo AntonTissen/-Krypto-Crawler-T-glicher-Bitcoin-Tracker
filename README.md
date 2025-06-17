@@ -2,7 +2,7 @@
 
 Ein einfaches Projekt das ich einfach aus Spaß erstellt habe: 
 
-Ein einfacher Python-Crawler, der **täglich den aktuellen Bitcoin-Kurs und die Marktkapitalisierung** über die CoinGecko API abruft und in einer CSV-Datei speichert.
+Ein einfacher Python-Crawler, der **Preis und Marktkapitalisierung anzeigt** über die CoinGecko API abruft und in einer CSV-Datei speichert.
 
 ---
 
